@@ -45,6 +45,3 @@ This step involves installing the required Python packages (dependencies) for yo
 
    ```bash
    pip install -r requirements.txt
-
-3. **Run the Flask Application:**
-Once the dependencies are installed, you can run your Flask application using the following command:
