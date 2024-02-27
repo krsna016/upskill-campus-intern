@@ -41,7 +41,7 @@ This step involves installing the required Python packages (dependencies) for yo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/krsna016/upskill-campus-intern.git
 
 2. **Install Dependencies:**
 
