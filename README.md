@@ -34,14 +34,16 @@ This project provides a web-based URL shortener where users can input long URLs,
 
 ## Getting Started
 
+This step involves installing the required Python packages (dependencies) for your project. In a Flask project, dependencies are often listed in a `requirements.txt` file. You can install these dependencies using the following command also make sure to clone the repo using the url given using using your command-prompt / terminal:
+
+
+
 1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/your-username/your-repository.git
 
 2. **Install Dependencies:**
-
-This step involves installing the required Python packages (dependencies) for your project. In a Flask project, dependencies are often listed in a `requirements.txt` file. You can install these dependencies using the following command:
 
    ```bash
    pip install -r requirements.txt
